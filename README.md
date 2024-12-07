@@ -112,7 +112,8 @@ footer{
   }
 ```
 ## output:
-![image](https://github.com/moulidharyadav/cover/assets/147078316/84000456-1d94-4210-b0f5-5dbd67f68b60)
+![my book](https://github.com/user-attachments/assets/f89e458e-0e15-456f-bd4f-4ab9b186efaa)
+
 
 
 ## Result:
